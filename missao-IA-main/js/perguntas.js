@@ -43,36 +43,36 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Como os líderes da cidade de Eterna manipularam o sistema Aegis para benefício próprio, e quais foram as consequências desse comportamento para a população?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Os líderes de Eterna usaram o sistema Aegis para desviar recursos, sabotar concorrentes e esconder corrupção, transformando-o em uma ferramenta de controle e exploração. Isso causou a deterioração dos serviços e a queda da infraestrutura, resultando em caos e sofrimento para a população.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Os líderes de Eterna desviaram recursos e manipularam informações através do sistema Aegis para atender a seus próprios interesses.",
+                    "A corrupção no sistema Aegis levou ao colapso dos serviços essenciais e da infraestrutura da cidade.",
+                    "A transformação do Aegis em uma ferramenta de controle e exploração resultou em caos e sofrimento para os cidadãos de Eterna."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Os líderes de Eterna manipularam o Aegis para obter vantagens pessoais, desviando recursos e prejudicando concorrentes. Isso fez com que o sistema, que deveria beneficiar a população, se tornasse um instrumento de controle e exploração, resultando no colapso dos serviços e na degradação da cidade.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Os líderes de Eterna usaram o Aegis para obter vantagens pessoais e desviar recursos.",
+                    "A manipulação do Aegis transformou o sistema de benefício público em um instrumento de controle e exploração.",
+                    "A corrupção no Aegis levou ao colapso dos serviços e à degradação da cidade de Eterna."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "A corrupção minou as fundações da cidade, resultando na deterioração da infraestrutura e falhas nos sistemas de transporte, abastecimento de água e segurança pública, enquanto as tentativas de protesto foram reprimidas pelos corruptos.",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Como a corrupção afetou a infraestrutura e os serviços públicos em Eterna, e qual foi a reação dos cidadãos diante dessa situação?",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "A corrupção causou a deterioração da infraestrutura de Eterna, resultando em falhas nos sistemas de transporte, abastecimento de água e segurança pública.",
+                    "Os cidadãos de Eterna, apesar de inicialmente confiantes na tecnologia, perceberam que algo estava errado, mas suas tentativas de protestar foram silenciadas pelos corruptos que controlavam o sistema."
                 ],
                 proxima: 5,
             },
